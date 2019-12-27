@@ -4,7 +4,8 @@ Checks when a pages and links are loaded using Mutation Observers along with a v
 Works in a seperate tab to avoid hindering workflow.
 
 
-Note: The chrome store does not allow extensions to download youtube videos so I made my own for everyone to use
+Note: The chrome store REJECTED my extension as it breaks their downloading from youtube regulations. 
+      So I made it possible for you to download it on your own. 
 
 Steps to get UtubeDownloader:
 1) Download zip file of extension 
