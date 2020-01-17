@@ -2,8 +2,8 @@
 A chrome extension that automatically downloads Youtube videos for you with the use of an external website. 
 Checks when a pages and links are loaded using Mutation Observers along with a variety of other tools.
 
- Why I Made It
-==============
+## Why I Made It
+
 
 The chrome store does not allow any youtube downloaders as they breach their privacy rules. 
 I decided to make one that would act as an alternative downloader, using an external website instead of downloading directly 
