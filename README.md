@@ -21,7 +21,7 @@ So I made it possible for you to download it on your own.
 2) Extract file which should give you a folder
 3) Go to chrome://extensions
 4) On the top right corner click the Developer mode switch
-5) Press the newly reveled load unpacked button (top-left under Extensions heading)
+5) Press the newly revealed load unpacked button (top-left under Extensions heading)
 6) Select the unzipped folder and enjoy
 
 Feel free to modify the code to your liking. :)
